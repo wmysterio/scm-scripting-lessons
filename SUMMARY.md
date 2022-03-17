@@ -13,7 +13,7 @@
 * [Раздел 04. Разное](<GTA SA, VC, III/Раздел 04. Разное.md>)
 * [Раздел 05. Алгоритмы и примеры](<GTA SA, VC, III/Раздел 05. Алгоритмы и примеры.md>)
 * [Раздел 06. Plugin SDK](<GTA SA, VC, III/Раздел 06. Plugin SDK/README.md>)
-  * [\[SA|C++\]. Простейший плагин.](<gta-sa-vc-iii/razdel-06.-plugin-sdk/000100. \[SAC++]. Простейший плагин.md>)
+  * [\[SA|C++\]. Простейший плагин.](gta-sa-vc-iii/razdel-06.-plugin-sdk/000100.md)
   * [\[SA|C++\]. Работа с массивами объектов.](<gta-sa-vc-iii/razdel-06.-plugin-sdk/000200. \[SAC++]. Работа с массивами объектов.md>)
   * [\[SA|C++\]. Рисуем! Часть 1.](<gta-sa-vc-iii/razdel-06.-plugin-sdk/000300. \[SAC++]. Рисуем! Часть 1..md>)
   * [\[SA|C++\]. Короны!](<gta-sa-vc-iii/razdel-06.-plugin-sdk/000400. \[SAC++]. Короны.md>)
