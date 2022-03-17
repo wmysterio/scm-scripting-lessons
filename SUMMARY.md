@@ -1,8 +1,10 @@
 # Table of contents
 
-## GTA SA, VC, III <a href="#GTA SA, VC, III" id="GTA SA, VC, III"></a>
+* [О сайте](README.md)
 
-* [Раздел 01. Основы](README.md)
+## GTA SA, VC, III
+
+* [Раздел 01. Основы](<README (1).md>)
   * [Общие сведения об уроках и минимальный набор программ](<GTA SA, VC, III/Раздел 01. Основы/00100. Общие сведения об уроках и минимальный набор программ.md>)
   * [Установка Sanny Builder. Базовые настройки.](<GTA SA, VC, III/Раздел 01. Основы/00200. Установка Sanny Builder. Базовые настройки.md>)
   * [Опкоды. Типы проектов.](<GTA SA, VC, III/Раздел 01. Основы/00300. Опкоды. Типы проектов.md>)
@@ -27,7 +29,7 @@
   * [0007. Руководство по использованию программы GTA GXT Editor](<GTA SA, VC, III/Раздел 07. Руководство по программам/0007.-rukovodstvo-po-ispolzovaniyu-programmy-gta-gxt-editor.md>)
   * [00070. Руководство по использованию Map Editor](<GTA SA, VC, III/Раздел 07. Руководство по программам/00070.-rukovodstvo-po-ispolzovaniyu-map-editor.md>)
 
-## GTA 4 <a href="#GTA 4" id="GTA 4"></a>
+## GTA 4
 
 * [Раздел 01. ScriptHookDotNet](<GTA 4/Раздел 01. ScriptHookDotNet/README.md>)
   * [000100. Создание проекта и его открытие](<GTA 4/Раздел 01. ScriptHookDotNet/000100.-sozdanie-proekta-i-ego-otkrytie.md>)
@@ -47,7 +49,7 @@
   * [00034. Что такое Blip- Основные комадны](<GTA 4/Раздел 01. ScriptHookDotNet/00034.-chto-takoe-blip-osnovnye-komadny.md>)
   * [00099. Всё что необходимо перед началом скриптинга GTA 4](<GTA 4/Раздел 01. ScriptHookDotNet/00099.-vsyo-chto-neobkhodimo-pered-nachalom-skriptinga-gta-4.md>)
 
-## Программирование <a href="#Программирование" id="Программирование"></a>
+## Программирование
 
 * [C#](Программирование/CS/README.md)
   * [000103. Типы данных в C#. Базовые операции над ними.](Программирование/CS/000103.-tipy-dannykh-v-c-.-bazovye-operacii-nad-nimi..md)
@@ -57,8 +59,8 @@
   * [000123. Блочные конструкции. Перечисления](Программирование/CS/000123.-blochnye-konstrukcii.-perechisleniya.md)
   * [000124. Блочные конструкции. Оператор управдения swith](Программирование/CS/000124.-blochnye-konstrukcii.-operator-upravdeniya-swith.md)
   * [000125. Блочные конструкции. Цикл foreach](Программирование/CS/000125.-blochnye-konstrukcii.-cikl-foreach.md)
-  * [000128. Как делать функции  c#- Часть 1](Программирование/CS/000128.-kak-delat-funkcii-c-chast-1.md)
-  * [000129. Как делать функции  c#- Часть 2](Программирование/CS/000129.-kak-delat-funkcii-c-chast-2.md)
+  * [000128. Как делать функции c#- Часть 1](Программирование/CS/000128.-kak-delat-funkcii-c-chast-1.md)
+  * [000129. Как делать функции c#- Часть 2](Программирование/CS/000129.-kak-delat-funkcii-c-chast-2.md)
   * [000130. Альтернативные условия](Программирование/CS/000130.-alternativnye-usloviya.md)
   * [000131. Как делать функции c#- Часть 3](Программирование/CS/000131.-kak-delat-funkcii-c-chast-3.md)
   * [000132. ООП в c# Часть 1](Программирование/CS/000132.-oop-v-c-chast-1.md)
@@ -139,7 +141,7 @@
   * [00025. Создание объекта](<Раздел 99. Старые уроки (будут изменены)/00025.-sozdanie-obekta.md>)
   * [00026. Создание транспорта](<Раздел 99. Старые уроки (будут изменены)/00026.-sozdanie-transporta.md>)
   * [00027. Пикапы](<Раздел 99. Старые уроки (будут изменены)/00027.-pikapy.md>)
-  * [00028. Актёры и команды, свойственны им. Команды  для игрока](<Раздел 99. Старые уроки (будут изменены)/00028.-aktyory-i-komandy-svoistvenny-im.-komandy-dlya-igroka.md>)
+  * [00028. Актёры и команды, свойственны им. Команды для игрока](<Раздел 99. Старые уроки (будут изменены)/00028.-aktyory-i-komandy-svoistvenny-im.-komandy-dlya-igroka.md>)
   * [00029. Транспорт и команды, свойственны ему](<Раздел 99. Старые уроки (будут изменены)/00029.-transport-i-komandy-svoistvenny-emu.md>)
   * [00030. Объекты и команды, свойственны им](<Раздел 99. Старые уроки (будут изменены)/00030.-obekty-i-komandy-svoistvenny-im.md>)
   * [00031. Маркеры и сферы](<Раздел 99. Старые уроки (будут изменены)/00031.-markery-i-sfery.md>)
