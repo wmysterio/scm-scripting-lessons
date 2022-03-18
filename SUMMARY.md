@@ -2,7 +2,7 @@
 
 * [О сайте](README.md)
 
-## GTA SA, VC, III <a href="#00100" id="00100"></a>
+## GTA SA, VC, III (PC, Classic) <a href="#00100" id="00100"></a>
 
 * [Раздел 01. Основы](00100/00100/README.md)
   * [Общие сведения об уроках и минимальный набор программ](00100/00100/00100.-obshie-svedeniya-ob-urokakh-i-minimalnyi-nabor-programm.md)
@@ -29,7 +29,7 @@
   * [0007. Руководство по использованию программы GTA GXT Editor](00100/00700/0007.-rukovodstvo-po-ispolzovaniyu-programmy-gta-gxt-editor.md)
   * [00070. Руководство по использованию Map Editor](00100/00700/00070.-rukovodstvo-po-ispolzovaniyu-map-editor.md)
 
-## GTA 4 <a href="#00200" id="00200"></a>
+## GTA 4 (PC) <a href="#00200" id="00200"></a>
 
 * [Раздел 01. ScriptHookDotNet](00200/00100/README.md)
   * [000100. Создание проекта и его открытие](00200/00100/000100.-sozdanie-proekta-i-ego-otkrytie.md)
