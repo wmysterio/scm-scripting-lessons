@@ -25,7 +25,7 @@
   * [Руководство по использованию программы FXT Editor](00100/00700/000400.md)
   * [Руководство по использованию программы GTA Animation Manager](00100/00700/000500.md)
   * [Руководство по использованию программы TXD Workshop](00100/00700/000600.md)
-  * [0007. Руководство по использованию программы GTA GXT Editor](00100/00700/0007.-rukovodstvo-po-ispolzovaniyu-programmy-gta-gxt-editor.md)
+  * [Руководство по использованию программы GTA GXT Editor](00100/00700/000700.md)
   * [00070. Руководство по использованию Map Editor](00100/00700/00070.-rukovodstvo-po-ispolzovaniyu-map-editor.md)
   * [000164. Руководство по использованию программы MapCleaner](00100/00700/000164.-rukovodstvo-po-ispolzovaniyu-programmy-mapcleaner.md)
 
