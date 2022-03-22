@@ -22,7 +22,7 @@
   * [Руководство по использованию программы GTA-SA Crazy IMG Editor](00100/00700/000100.md)
   * [Руководство по использованию программы Ped Editor](00100/00700/000200.md)
   * [Руководство по использованию программы Rus2gxtCoder](00100/00700/000300.md)
-  * [0004. Руководство по использованию программы FXT Editor](00100/00700/0004.-rukovodstvo-po-ispolzovaniyu-programmy-fxt-editor.md)
+  * [Руководство по использованию программы FXT Editor](00100/00700/000400.md)
   * [0005. Руководство по использованию программы GTA Animation Manager](00100/00700/0005.-rukovodstvo-po-ispolzovaniyu-programmy-gta-animation-manager.md)
   * [0006. Руководство по использованию программы TXD Workshop](00100/00700/0006.-rukovodstvo-po-ispolzovaniyu-programmy-txd-workshop.md)
   * [0007. Руководство по использованию программы GTA GXT Editor](00100/00700/0007.-rukovodstvo-po-ispolzovaniyu-programmy-gta-gxt-editor.md)
