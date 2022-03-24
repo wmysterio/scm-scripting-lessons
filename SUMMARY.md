@@ -26,7 +26,7 @@
   * [Руководство по использованию программы GTA Animation Manager](00100/00700/000500.md)
   * [Руководство по использованию программы TXD Workshop](00100/00700/000600.md)
   * [Руководство по использованию программы GTA GXT Editor](00100/00700/000700.md)
-  * [00070. Руководство по использованию Map Editor](00100/00700/00070.-rukovodstvo-po-ispolzovaniyu-map-editor.md)
+  * [Руководство по использованию Map Editor](00100/00700/000800.md)
   * [000164. Руководство по использованию программы MapCleaner](00100/00700/000164.-rukovodstvo-po-ispolzovaniyu-programmy-mapcleaner.md)
 
 ## GTA 4 (PC) <a href="#00200" id="00200"></a>
