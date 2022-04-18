@@ -25,7 +25,7 @@
   * [00059. Подключение текстовых файлов, scm-функции](00100/00100/00059.-podklyuchenie-tekstovykh-failov-scm-funkcii.md)
   * [000155. Использование SCM-функций (опкод 0AB1)](00100/00100/000155.-ispolzovanie-scm-funkcii-opkod-0ab1.md)
   * [000162. Используем scm-функции в качестве проверок](00100/00100/000162.-ispolzuem-scm-funkcii-v-kachestve-proverok.md)
-  * [Координаты. Угол. Получение координат и угла](00100/00100/0008.-koordinaty-kak-orientir-po-ulicam-gta-san-andreas.md)
+  * [Координаты. Угол. Получение координат и угла Z](00100/00100/0008.-koordinaty-kak-orientir-po-ulicam-gta-san-andreas.md)
 * [Раздел 02. CLEO](00100/00200/README.md)
   * [Текст](00100/00200/tekst/README.md)
     * [000158. Динамическая GXT-таблица или виртуальные GXT-записи](00100/00200/tekst/000158.-dinamicheskaya-gxt-tablica-ili-virtualnye-gxt-zapisi.md)
