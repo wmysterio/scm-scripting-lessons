@@ -1,6 +1,7 @@
 # Table of contents
 
 * [О сайте](README.md)
+  * [Проекту помогали](readme/proektu-pomogali.md)
 
 ## GTA SA, VC, III (PC, Classic) <a href="#00100" id="00100"></a>
 
