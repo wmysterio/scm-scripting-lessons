@@ -211,6 +211,11 @@
   * [Выбор среды компилирования, типы данных, первая программа](00300/00200/000100.md)
   * [Математика, адреса данных](00300/00200/000200.md)
 
+## Полезные ссылки <a href="#more_help" id="more_help"></a>
+
+* [Уроки от Vital (видео)](https://www.youtube.com/watch?v=vlXTQCVVb3Y\&list=PLFAE331B20083DBCC\&ab\_channel=Vital)
+* [База опкодов](https://library.sannybuilder.com/)
+
 ***
 
 * [Раздел 99. Старые уроки](00400/README.md)
