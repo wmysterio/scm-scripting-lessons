@@ -9,9 +9,10 @@ description: >-
 
 
 
-| Ник            |                                     |
-| -------------- | ----------------------------------- |
-| BoPoH          | <mark style="color:red;">★</mark>   |
-| Slivkin-Sergey | <mark style="color:red;">★</mark>   |
-| Seemann        | <mark style="color:green;">★</mark> |
-| Vital          | <mark style="color:blue;">★</mark>  |
+| Ник            |                                       |
+| -------------- | ------------------------------------- |
+| DK22Pac        | <mark style="color:red;">★★★★★</mark> |
+| BoPoH          | <mark style="color:red;">★</mark>     |
+| Slivkin-Sergey | <mark style="color:red;">★</mark>     |
+| Seemann        | <mark style="color:green;">★</mark>   |
+| Vital          | <mark style="color:blue;">★</mark>    |
