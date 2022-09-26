@@ -7,9 +7,11 @@ description: >-
 
 # Проекту помогали
 
-| Ник            |                                      |
-| -------------- | ------------------------------------ |
-| Seemann        | <mark style="color:green;">★</mark>  |
-| Slivkin-Sergey | <mark style="color:orange;">★</mark> |
-| BoPoH          | <mark style="color:orange;">★</mark> |
-| Vital          | <mark style="color:red;">★</mark>    |
+
+
+| Ник            |                                     |
+| -------------- | ----------------------------------- |
+| BoPoH          | <mark style="color:red;">★</mark>   |
+| Slivkin-Sergey | <mark style="color:red;">★</mark>   |
+| Seemann        | <mark style="color:green;">★</mark> |
+| Vital          | <mark style="color:blue;">★</mark>  |
