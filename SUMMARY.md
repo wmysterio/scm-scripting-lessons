@@ -215,11 +215,13 @@
 ## Полезные ссылки <a href="#more_help" id="more_help"></a>
 
 * [Уроки от Vital (видео)](https://www.youtube.com/watch?v=vlXTQCVVb3Y\&list=PLFAE331B20083DBCC\&ab\_channel=Vital)
-* [База опкодов](https://library.sannybuilder.com/)
+* [База опкодов (SBL)](https://library.sannybuilder.com/)
+* [Сайт Sanny Builder](https://sannybuilder.com/)
+* [Сайт CLEO](https://cleo.li/)
 
 ***
 
-* [Раздел 99. Старые уроки](00400/README.md)
+* [Раздел 99. Старые уроки (на удаление)](00400/README.md)
   * [00010. Управление Sanny Builder и её особенности](00400/00010.-upravlenie-sanny-builder-i-eyo-osobennosti.md)
   * [0000. Всё, что необходимо перед началом скриптинга](00400/0000.-vsyo-chto-neobkhodimo-pered-nachalom-skriptinga.md)
   * [000156. Вступление в скриптинг GTA 3](00400/000156.-vstuplenie-v-skripting-gta-3.md)
