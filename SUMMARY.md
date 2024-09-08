@@ -219,10 +219,9 @@
 * [Сайт Sanny Builder](https://sannybuilder.com/)
 * [Сайт CLEO](https://cleo.li/)
 
-***
+## На удаление <a href="#delete_later" id="delete_later"></a>
 
-* [Page](page.md)
-* [Раздел 99. Старые уроки](00400/README.md)
-  * [00010. Управление Sanny Builder и её особенности](00400/00010.-upravlenie-sanny-builder-i-eyo-osobennosti.md)
-  * [0000. Всё, что необходимо перед началом скриптинга](00400/0000.-vsyo-chto-neobkhodimo-pered-nachalom-skriptinga.md)
-  * [000156. Вступление в скриптинг GTA 3](00400/000156.-vstuplenie-v-skripting-gta-3.md)
+* [Раздел 99. Старые уроки](delete\_later/00400/README.md)
+  * [00010. Управление Sanny Builder и её особенности](delete\_later/00400/00010.-upravlenie-sanny-builder-i-eyo-osobennosti.md)
+  * [0000. Всё, что необходимо перед началом скриптинга](delete\_later/00400/0000.-vsyo-chto-neobkhodimo-pered-nachalom-skriptinga.md)
+  * [000156. Вступление в скриптинг GTA 3](delete\_later/00400/000156.-vstuplenie-v-skripting-gta-3.md)
