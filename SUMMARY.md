@@ -221,7 +221,8 @@
 
 ***
 
-* [Раздел 99. Старые уроки (на удаление)](00400/README.md)
+* [Page](page.md)
+* [Раздел 99. Старые уроки](00400/README.md)
   * [00010. Управление Sanny Builder и её особенности](00400/00010.-upravlenie-sanny-builder-i-eyo-osobennosti.md)
   * [0000. Всё, что необходимо перед началом скриптинга](00400/0000.-vsyo-chto-neobkhodimo-pered-nachalom-skriptinga.md)
   * [000156. Вступление в скриптинг GTA 3](00400/000156.-vstuplenie-v-skripting-gta-3.md)
